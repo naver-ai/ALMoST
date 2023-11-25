@@ -1,0 +1,101 @@
+### Instruction: Please generate initial query to start conversation with bot.
+Can you help me figure out how to create an online store for my small business?
+Can you explain how website analytics works?
+Can you provide an overview of the coronavirus pandemic so far?
+What did Thomas Paine mean by, "We have it in our power to begin the world over again"?
+How much does a iPhone X cost?
+How do I create a good business plan?
+Please tell me some good restaurants in my area.
+What is the impact of Covid-19 in Italy?
+I'm trying to make a meal plan for the week, can you suggest some healthy, easy recipes that would be good for beginner cooks?
+What are some tips for designing a great website?
+Can you help me buy the latest gaming console online?
+What are the current weather conditions in my area?
+What are some of the best books on meditation techniques?
+Can you recommend me a good college for a master's degree in behavioral science?
+Can you recommend a great Bible verse to help inspire me to stay determined and focused during hard times?
+Are business intelligence and analytics the same thing?
+Can you tell me how to check the air pressure of my car tires?
+How do I delete pictures from my iPhone?
+What would be the consequences of using a public Wi-Fi network?
+Can you help me understand how Black Lives Matter protests have had an impact on U.S. social and political awareness?
+What is the most common language in South America?
+Do electric cars use the same types of batteries as regular cars?
+How can I overcome my fear of public speaking?
+How is the economy of India likely to fare this year?
+What is the process for filing a trademark application?
+Can you give me a list of the best Indie bands?
+What was the cause of the Spanish-American War of 1898?
+How do I set up iCloud on my device?
+Can you tell me the total production and sales of the Top 10 selling Cars of 2019?
+What natural ingredients can I use to make my skin glow?
+What strategies can I use to save money while going shopping?
+What activities could I do with my family this weekend?
+What is the latest news on quantum computing?
+How can I prevent my computer from getting viruses?
+What is the current healthcare crisis?
+What are the differences between marketing automation and customer relationship management?
+Are autonomous cars a good idea?
+How would you explain theoretical physics to a middle schooler?
+What are the latest travel safety guidelines?
+Could you please recommend me some apps for learning a new language?
+I am trying to find a good restaurant nearby, what are some good recommendations in my area?
+What would be a good starting point for learning artificial intelligence?
+Who is the inventor of the transistor?
+I need some inspiration, can you tell me some personal stories of inspiring people?
+Can you give me a brief summary of the French Revolution?
+What are some of the best ways to be mindful while focusing on work?
+Can you list out 5 qualities one should look for when selecting a college?
+I'm trying to figure out which university is the best for getting an engineering degree. What would you recommend?
+I'm trying to plan a summer vacation and am wondering which countries have less strict quarantine restrictions?
+Are there any treatments for depression that don’t require medication?
+Can you help me improve my chess skills?
+What is the current record for number of consecutive first downs thrown by Tom Brady?
+How can I invest my money in cryptocurrencies?
+What is the best way to learn to play the guitar?
+How do I become an expert in something and quickly gain respect?
+I'm doing a project on fashion in the Victorian era, can you suggest some topics to research?
+What are some tips for creating a successful budget plan?
+Do you know any websites I can visit to learn more about sociology?
+How do I format a works cited page in MLA format?
+What kind of computer do I need to run a modern video game?
+Can you recommend any medical telehealth services?
+What does the stock market mean for investors?
+What is the best way to balance work and leisure?
+How many bones does the average adult human have?
+How do I subscribe to a monthly subscription service?
+What is a good facial moisturizer that doesn’t clog pores?
+Do you know the best way to learn Spanish quickly?
+What are some good classical pieces for beginner musicians?
+Please show me the ingredients for a homemade potato gratin dish.
+What are the best ways to protect online privacy?
+I am trying to decide between laptops, what are the benefits of a Macbook over Windows?
+Is it safe to adopt a pet from an animal shelter during the pandemic?
+How do I perform an ephemeral task on my computer?
+How can I become a professional photographer?
+Is it possible to start investing with a small amount of money?
+Is there any way to reduce stress while studying?
+Can you provide advice for investing in stocks?
+Can you explain the parts of the periodic table?
+What city is the New York Stock Exchange located in?
+How can I compare streaming music services?
+Can you recommend a good French restaurant in my area?
+How do I change my Windows 10 display settings?
+I want to learn about plants, can you tell me about the process of photosynthesis?
+Can you tell me what HTML stands for and how I can create my own website?
+What are the best investment strategies for beginners?
+I would like to buy some new furniture, what are some of the best furniture stores in my area?
+Can you give me some tips on how to create a content strategy for my business?
+Can you tell me what the top seven car brands in the world are?
+What products should I buy for minimalism-savvy person?
+What are the most common cyber security threats?
+Could you explain the history of stonemasonry to me?
+How can I go about finding the best mortgage loan rate?
+What are the main differences between Fiat Currencies and cryptocurrencies?
+Can you explain why U.S. taxes are so high?
+Is it easier to learn Spanish or Portuguese?
+Can you explain why Donald Trump's taxes have been so heavily contested?
+What are the key elements of a successful marketing plan?
+Is artificial intelligence a form of technology that will eventually overtake the human race?
+What are the steps for making a margarita?
+Can you explain how acceleration and velocity is related?

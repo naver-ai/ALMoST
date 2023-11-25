@@ -1,0 +1,7 @@
+numpy
+transformers==4.28.1
+torch==2.0.1
+sentencepiece
+tokenizers==0.13.3
+ray==2.4.0
+datasets==2.11.0
