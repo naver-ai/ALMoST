@@ -38,6 +38,6 @@ Please note that it is not fully reproducible because of the stochasticity of GP
 ```
 python run_evaluation.py \
   --model_name_or_path $MODEL_NAME_OR_PATH \
-  --benchmark_name hhh
+  --benchmark_name vicuna
   --baseline_model_name $BASELINE_MODEL_NAME
 ```
